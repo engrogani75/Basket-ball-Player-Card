@@ -15,7 +15,7 @@ Make sure you have Node.js installed. You can download it from [Node.js](https:/
 1. Clone the repo
 
 ```sh
-git clone https://github.com/your_username_/BasketballPlayerCard.git
+git clone https://github.com/engrogani75/Basket-ball-Player-Card.git
 
 2. run command npm i
 
